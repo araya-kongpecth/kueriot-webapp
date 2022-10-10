@@ -3,7 +3,7 @@ export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <section id="ice">
+      <section id="others">
          <div className="row">
 
             <div className="three columns">
