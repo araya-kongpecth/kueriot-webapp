@@ -1,13 +1,13 @@
 {
   "main.css": "/kueriot-webapp/static/css/main.ccbfe6d4.chunk.css",
-  "main.js": "/kueriot-webapp/static/js/main.e6455985.chunk.js",
-  "main.js.map": "/kueriot-webapp/static/js/main.e6455985.chunk.js.map",
+  "main.js": "/kueriot-webapp/static/js/main.0afbf44a.chunk.js",
+  "main.js.map": "/kueriot-webapp/static/js/main.0afbf44a.chunk.js.map",
   "static/js/1.6eb6405c.chunk.js": "/kueriot-webapp/static/js/1.6eb6405c.chunk.js",
   "static/js/1.6eb6405c.chunk.js.map": "/kueriot-webapp/static/js/1.6eb6405c.chunk.js.map",
   "runtime~main.js": "/kueriot-webapp/static/js/runtime~main.150b6ad7.js",
   "runtime~main.js.map": "/kueriot-webapp/static/js/runtime~main.150b6ad7.js.map",
   "static/css/main.ccbfe6d4.chunk.css.map": "/kueriot-webapp/static/css/main.ccbfe6d4.chunk.css.map",
   "index.html": "/kueriot-webapp/index.html",
-  "precache-manifest.18c622e608b93e5fa108667090f3d608.js": "/kueriot-webapp/precache-manifest.18c622e608b93e5fa108667090f3d608.js",
+  "precache-manifest.6c8d13fb38ed5f71f769b562d61afa83.js": "/kueriot-webapp/precache-manifest.6c8d13fb38ed5f71f769b562d61afa83.js",
   "service-worker.js": "/kueriot-webapp/service-worker.js"
 }
