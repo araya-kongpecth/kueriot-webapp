@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0afbf44a11239fc16ae2",
+    "revision": "e6455985a5135534a5e0",
     "url": "/kueriot-webapp/static/css/main.ccbfe6d4.chunk.css"
   },
   {
-    "revision": "0afbf44a11239fc16ae2",
-    "url": "/kueriot-webapp/static/js/main.0afbf44a.chunk.js"
+    "revision": "e6455985a5135534a5e0",
+    "url": "/kueriot-webapp/static/js/main.e6455985.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/kueriot-webapp/static/js/runtime~main.150b6ad7.js"
   },
   {
-    "revision": "3d24c8b69eb72403acc722b297ca55a5",
+    "revision": "4be13609246529b446c14344fa2ed0a1",
     "url": "/kueriot-webapp/index.html"
   }
 ];
