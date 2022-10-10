@@ -240,63 +240,241 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 
+
 /* ------------------------------------------------------------------ */
-/* d. Resume Section
+/* Jumlang Section
 /* ------------------------------------------------------------------ */
 
-#ice {
+#jumlang {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#jumlang a, #about a:visited  { color: #fff; }
+#jumlang a:hover, #about a:focus { color: #11ABB0; }
+
+#jumlang h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#jumlang h3 {
+   font: 18px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#jumlang h4 {
+   font: 14px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#jumlang p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+#jumlang .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#jumlang .contact-details { width: 41.66667%; }
+#jumlang .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#jumlang .main-col { padding-right: 5%; }
+#jumlang .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#jumlang .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#jumlang .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* d. Fento Section
+/* ------------------------------------------------------------------ */
+
+#fento {
    background: #7A7A7A;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
-#ice a, #ice a:visited  { color: #fff; }
-#ice a:hover, #ice a:focus { color: #11ABB0; }
+#fento a, #ice a:visited  { color: #fff; }
+#fento a:hover, #ice a:focus { color: #11ABB0; }
 
-#ice h2 {
+#fento h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#ice h3 {
+#fento h3 {
    font: 18px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#ice h4 {
+#fento h4 {
    font: 14px/30px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
-#ice p {
+#fento p {
    line-height: 30px;
    color: #2B2B2B;
 }
-#ice .profile-pic {
+#fento .profile-pic {
    position: relative;
    width: 120px;
    height: 120px;
    border-radius: 100%;
 }
-#ice .contact-details { width: 41.66667%; }
-#ice .download {
+#fento .contact-details { width: 41.66667%; }
+#fento .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#ice .main-col { padding-right: 5%; }
-#ice .download .button {
+#fento .main-col { padding-right: 5%; }
+#fento .download .button {
    margin-top: 6px;
    background: #444;
 }
-#ice .download .button:hover {
+#fento .download .button:hover {
    background: #fff;
    color: #2B2B2B;
 }
-#ice .download .button i {
+#fento .download .button i {
    margin-right: 15px;
    font-size: 20px;
 }
+
+/* ------------------------------------------------------------------ */
+/* CAESARBot Section
+/* ------------------------------------------------------------------ */
+
+#caesarbot {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#caesarbot a, #about a:visited  { color: #fff; }
+#caesarbot a:hover, #about a:focus { color: #11ABB0; }
+
+#caesarbot h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#caesarbot h3 {
+   font: 18px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#caesarbot h4 {
+   font: 14px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#caesarbot p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+#caesarbot .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#caesarbot .contact-details { width: 41.66667%; }
+#caesarbot .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#caesarbot .main-col { padding-right: 5%; }
+#caesarbot .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#caesarbot .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#caesarbot .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
+
+/* ------------------------------------------------------------------ */
+/* d. Others Section
+/* ------------------------------------------------------------------ */
+
+#others {
+   background: #7A7A7A;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#others a, #ice a:visited  { color: #fff; }
+#others a:hover, #ice a:focus { color: #11ABB0; }
+
+#others h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#others h3 {
+   font: 18px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#others h4 {
+   font: 14px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#others p {
+   line-height: 30px;
+   color: #2B2B2B;
+}
+#others .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#others .contact-details { width: 41.66667%; }
+#others .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#others .main-col { padding-right: 5%; }
+#others .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#others .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#others .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
 
 
 /* ------------------------------------------------------------------ */
