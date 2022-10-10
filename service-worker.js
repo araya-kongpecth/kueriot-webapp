@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kueriot-webapp/precache-manifest.3667ec61c15276239c155dd4ef5ff778.js"
+  "/kueriot-webapp/precache-manifest.6c8d13fb38ed5f71f769b562d61afa83.js"
 );
 
 workbox.clientsClaim();
